@@ -5,6 +5,8 @@ namespace _98._Repositório_Git {
         static void Main(string[] args) {
 
             Console.WriteLine("Salvee");
+            Console.WriteLine("BOA");
+
             Console.ReadLine();
         }
     }
